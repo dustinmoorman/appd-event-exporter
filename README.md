@@ -1,6 +1,6 @@
 # AppD Event Exporter
 
-A tool to pull AppD events and store them outside of AppD.
+A tool to pull AppD events and store them outside of AppD.  This repo is meant to be a starting point for data extraction, and intended to be extended to fit your data storage requirements by providing an easy way to extract data with Python.
 
 ## Usage
 
