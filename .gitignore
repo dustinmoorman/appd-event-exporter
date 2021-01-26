@@ -1,2 +1,5 @@
 accountName.txt
 apiKey.txt
+lib/
+bin/
+pyvenv.cfg
