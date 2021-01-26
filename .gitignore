@@ -3,3 +3,4 @@ apiKey.txt
 lib/
 bin/
 pyvenv.cfg
+appd-data.json
